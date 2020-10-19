@@ -48,4 +48,22 @@ body {
   top: -15px;
 }
 
-/* Shubham */
+.feture-box {
+  background-color: rgba(0, 0, 0, 0.5);
+  padding: 5px 15px;
+  border-radius: 5px;
+  border: 2px solid white;
+  margin-top: 15px;
+  color: azure;
+}
+
+.brand-box {
+  height: 35%;
+  margin-top: 25px;
+  overflow-y: scroll;
+}
+
+.feature-name {
+  text-align: center;
+  color: #08ccfd;
+}
