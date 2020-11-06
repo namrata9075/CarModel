@@ -1,0 +1,55 @@
+[
+  {
+    "car_name": "Rx",
+    "car_model": 2010,
+    "price": 2500000,
+    "image": "images/car.jpg",
+    "type": "Petrol",
+    "desc": "Used for 9 years"
+  },
+
+  {
+    "car_name": "City",
+    "car_model": 2012,
+    "price": 5000000,
+    "image": "images/car1.jpg",
+    "type": "Petrol",
+    "desc": "Used for 5 years"
+  },
+
+  {
+    "car_name": "Civic",
+    "car_model": 2014,
+    "price": 2500000,
+    "image": "images/car2.jpeg",
+    "type": "Petrol",
+    "desc": "Used for 5 years"
+  },
+
+  {
+    "car_name": "xuv5oo",
+    "car_model": 2013,
+    "price": 2500000,
+    "image": "images/xuv.jpeg",
+    "type": "Petrol",
+    "desc": "Used for 9 years"
+  },
+
+  {
+    "car_name": "Honda",
+    "car_model": 2011,
+    "price": 5000000,
+    "image": "images/car5.png",
+    "type": "Disel",
+    "desc": "Used for 6 years"
+  },
+
+  {
+    "car_name": "Civic",
+    "car_model": 2016,
+    "price": 7500000,
+    "image": "images/car6.jpg",
+    "type": "Disel",
+    "desc": "Used for 3 years"
+  }
+]

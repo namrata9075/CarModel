@@ -5,6 +5,7 @@ body {
   background-position: center;
   background-size: cover;
   padding: 2% 0;
+  color: white;
 }
 
 .container {
@@ -66,4 +67,26 @@ body {
 .feature-name {
   text-align: center;
   color: #08ccfd;
+}
+
+#carList {
+  margin-top: 25px;
+  color: white;
+}
+
+.car-img {
+  width: 100%;
+  border-radius: 5px;
+}
+
+.car-description p {
+  margin-bottom: 4px;
+}
+
+.car-title{
+  font-size: 22px;
+}
+
+.car-price {
+  font-size: 24px;
 }
